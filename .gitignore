@@ -1,0 +1,19 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/Intermediate
+*/DerivedDataCache
+*/Saved
+*/Content/StarterContent/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+
+#########################    
+# XCode Generated Files #
+######################### 
+*.xcworkspace
