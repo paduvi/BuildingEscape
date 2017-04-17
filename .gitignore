@@ -17,3 +17,9 @@
 # XCode Generated Files #
 ######################### 
 *.xcworkspace
+
+
+################
+# System Files #
+################
+*/.DS_Store
